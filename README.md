@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 ## About Me
 
 - 💼 Aspiring Data Analyst
-- 🎓 I’m currently Pursuing Bachelors in information system
+- 🎓 I’m currently Pursuing Bachelor's in Information System
 - 📫 How to reach me: sandyaprlynto@gmail.com
 
 ## 🖥 Skills
