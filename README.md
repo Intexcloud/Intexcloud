@@ -35,3 +35,11 @@ Feel free to explore my repositories and reach out for collaboration opportuniti
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandyaprilyanto/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sandyaprlynto@gmail.com)
 [![Github](https://img.shields.io/github/followers/Intexcloud?label=Follow&style=social)](https://github.com/Intexcloud)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/sndyaprlynto/)](https://www.instagram.com/sndyaprlynto)
+
+<div> <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Intexcloud&show_icons=true&locale=en&layout=compact" alt="Intexcloud" /> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Intexcloud&" alt="Intexcloud" /> </div>
+
+
+
+
+
