@@ -1,10 +1,14 @@
+# Hi There!! 👋
+I'm Sandy Aprilyanto, an aspiring Data Analyst and a student majoring in Information Systems. I'm passionate about turning data into insights and solving problems using SQL, Python, and data visualization tools like Power BI and Tableau.
 
 # 💫 About Me:
 - 💼 Aspiring Data Analyst
-- 🎓 I’m currently Pursuing Bachelor's in Information System
+- 🎓 Currently Pursuing Bachelor's in Information System
+- 💡 Currently, I'm learning advanced SQL queries and building data dashboards.
+- 🚀 I'm also working on personal projects to enhance my analytical skills.
 - 📫 How to reach me: sandyaprlynto@gmail.com
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sndyaprlynto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandyaprilyanto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandyaprlynto@gmail.com) 
 
 # 💻 Tech Stack:
@@ -22,9 +26,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white)
 
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Intexcloud&theme=dark&hide_border=false&include_all_commits=true&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=Intexcloud&theme=dark&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Intexcloud&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
@@ -40,4 +41,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Intexcloud&icon=4&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
