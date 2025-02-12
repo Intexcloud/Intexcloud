@@ -2,7 +2,7 @@
 I'm Sandy Aprilyanto, an aspiring Data Analyst and a student majoring in Information Systems. I'm passionate about turning data into insights and solving problems using SQL, Python, and data visualization tools like Power BI and Tableau.
 
 # 💫 About Me:
-- 💼 Aspiring Data Analyst
+- 💼 Data Analyst
 - 🎓 Currently Pursuing Bachelor's in Information System
 - 💡 Currently, I'm learning advanced SQL queries and building data dashboards.
 - 🚀 I'm also working on personal projects to enhance my analytical skills.
