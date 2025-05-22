@@ -3,7 +3,7 @@ I'm Sandy Aprilyanto, Final year student majoring in Information Systems. I'm pa
 
 # 💫 About Me:
 - 💼 Data Analyst
-- 🎓 Currently Pursuing Bachelor's in Information System
+- 🎓 Bachelor's in Information System
 - 💡 Currently, I'm learning advanced SQL queries and building data dashboards.
 - 🚀 I'm also working on personal projects to enhance my analytical skills.
 - 📫 How to reach me: sandyaprlynto@gmail.com
