@@ -1,5 +1,5 @@
 # Hi There!! 👋
-I'm Sandy Aprilyanto, Final year student majoring in Information Systems. I'm passionate about turning data into insights and solving problems using SQL, Python, and data visualization tools like Power BI and Tableau.
+I'm Sandy Aprilyanto, Freshgraduate in Information Systems. I'm passionate about turning data into insights and solving problems using SQL, Python, and data visualization tools like Power BI and Tableau.
 
 # 💫 About Me:
 - 💼 Data Analyst
