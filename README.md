@@ -2,9 +2,7 @@
 I'm Sandy Aprilyanto, Freshgraduate in Information Systems. I'm passionate about turning data into insights and solving problems using SQL, Python, and data visualization tools like Power BI and Tableau.
 
 # 💫 About Me:
-- 💼 Data Analyst
 - 🎓 Bachelor's in Information System
-- 💡 Currently, I'm learning advanced SQL queries and building data dashboards.
 - 🚀 I'm also working on personal projects to enhance my analytical skills.
 - 📫 How to reach me: sandyaprlynto@gmail.com
 
